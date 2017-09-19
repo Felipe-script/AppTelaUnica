@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pasteloko</string>
+    <string name="about">A Pasteloko, nasceu em Presidente Prudente, atuando no segmento alimentício desde 1992. A primeira loja instalada na cidade foi na R Dr Gurgel, após 21 anos no mercado, expandiu-se e hoje conta com 3 unidades.</string>
+    <string name="endereco">R. Dr. Gurgel, 343 - Centro, Pres. Prudente - SP</string>
+    <string name="func">funcionamento das 9:00 as 17:00</string>
+    <string name="tel">(18) 32217640</string>
+</resources>
